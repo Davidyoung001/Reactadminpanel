@@ -1,0 +1,111 @@
+/* .head{
+ text-align: center;
+  background-color: black;
+  width: 100%;
+  height: 350px;
+  border: 2px solid red;
+  
+} */
+
+.head-2{
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+    position: relative;
+    /* border: 2px solid red; */
+    background-image: url(assets/images/3.jpg.jpg);
+    background-size: contain;
+    height: 350px;   
+} 
+.navbar-1{
+  background:rgb(116, 65, 65);
+  width: 100%;
+  font-style: italic;
+ font-size: 25px;
+ text-align: center;
+ padding: 10px;
+}
+
+.section_title{
+  font-size: 30px;
+  padding: 20px;
+  margin: 0px;
+  color:blue;
+  text-align: center;
+}
+
+.section_content{
+  color: rgb(89, 65, 65);
+  text-align: center;
+  padding: 10px;
+  box-shadow: 10px,10px,8px whitesmoke,-5px,-5px,-8px whitesmoke;
+
+
+  /* border: 1px solid gray; */
+}
+
+.content_1{
+  /* border: 0px solid gray; */
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+  width: 45%;
+  
+}
+
+.content_2{
+  /* border: 0px solid gray; */
+  text-align: center;
+  padding: 10px;
+  display: inline-block;
+  width: 35%;
+}
+.content_3{
+  /* border: 1px solid gray; */
+  text-align: center;
+  padding: 10px;
+  display: right;
+  width: 35%;
+  float: left;
+  
+}
+
+.content_4 {
+  border: 2px solid white;
+  text-align: center;
+  padding: 10px;
+  display:inline-block ;
+  width: 40%;
+
+
+}
+
+.inner_title{
+display: inline-block;
+text-align: left;
+width: 90%;
+font-size: 30px;
+color: brown;
+ 
+
+
+
+}
+.offer_list{
+  padding: 20px;
+  display: inline-block;
+  width: 90%;
+  
+  }
+.order_item{
+padding: 20px;
+margin: 10px;
+display: inline-block;
+border: 1px solid brown;
+width: 30%;
+text-align: center;
+font-size: 15px;
+
+} 
+
+
